@@ -30,8 +30,10 @@ Follow these steps to get the EasyVRproject running on your local machine:
 
 ## Contributions
 Contributions are highly encouraged! Whether it’s adding new VR environments, enhancing performance, or fixing bugs, we’d love your input. Please open an issue or submit a pull request.
+ 
+## Learn By Watching Video ▶️
+[![Watch Demo Video](https://img.youtube.com/vi/3Cyvmzocsdg/maxresdefault.jpg)](https://www.youtube.com/watch?v=3Cyvmzocsdg)
 
-## Demo Video ▶️
 
 Watch the video to see EasyVRin action!
 
